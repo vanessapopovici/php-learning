@@ -17,3 +17,6 @@ This repository tracks my progress as I learn PHP through the **Laracasts "PHP f
 - Using `.htaccess` to create clean URLs (like `/about` instead of `/about.php`).
 - Setting HTTP status codes and creating custom 404 error pages.
 - Using `parse_url()` to handle clean path matching in the router.
+- Connecting to a MySQL database using a Data Source Name (DSN) string.
+- Creating a PDO instance to manage database connections.
+- Fetching database results into associative arrays using `fetchAll(PDO::FETCH_ASSOC)`.
