@@ -20,3 +20,6 @@ This repository tracks my progress as I learn PHP through the **Laracasts "PHP f
 - Connecting to a MySQL database using a Data Source Name (DSN) string.
 - Creating a PDO instance to manage database connections.
 - Fetching database results into associative arrays using `fetchAll(PDO::FETCH_ASSOC)`.
+- Creating a PHP Class (`Database`) to encapsulate database logic.
+- Using a Class Constructor (`__construct`) to automatically initialize a PDO connection.
+- Chaining methods (like `->query()->fetchAll()`) to make code more concise.
