@@ -26,3 +26,4 @@ This repository tracks my progress as I learn PHP through the **Laracasts "PHP f
 - Using an external `config.php` file to manage environment-specific settings.
 - Utilizing `http_build_query()` to dynamically construct a database DSN string.
 - Implementing a `Database` class constructor to automatically establish connections.
+- SQL Injection Vulnerabilities.
