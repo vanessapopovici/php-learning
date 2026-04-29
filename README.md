@@ -27,3 +27,6 @@ This repository tracks my progress as I learn PHP through the **Laracasts "PHP f
 - Utilizing `http_build_query()` to dynamically construct a database DSN string.
 - Implementing a `Database` class constructor to automatically establish connections.
 - SQL Injection Vulnerabilities.
+- Using URL query parameters (`$_GET`) to fetch specific data from a database.
+- Linking between views dynamically using unique identifiers (IDs).
+- Using named placeholders (e.g., `:id`) in SQL queries to prepare for secure data handling.
