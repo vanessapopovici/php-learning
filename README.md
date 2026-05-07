@@ -30,3 +30,5 @@ This repository tracks my progress as I learn PHP through the **Laracasts "PHP f
 - Using URL query parameters (`$_GET`) to fetch specific data from a database.
 - Linking between views dynamically using unique identifiers (IDs).
 - Using named placeholders (e.g., `:id`) in SQL queries to prepare for secure data handling.
+- Creating a global `authorize()` helper function to protect records based on user ownership.
+- Creating a PHP Class (`Response`) to encapsulate constants for common status codes.
